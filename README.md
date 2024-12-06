@@ -21,8 +21,8 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/GoogleSearchResultsFetcher.git
-    cd GoogleSearchResultsFetcher
+    git clone https://github.com/waledkamal/google-search-fetcher.git
+    cd google-search-fetcher
     ```
 
 2. Install dependencies:
